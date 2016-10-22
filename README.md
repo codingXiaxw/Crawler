@@ -7,7 +7,7 @@
 
 **博客一览表:**  
 
-<img src="http://od2xrf8gr.bkt.clouddn.com/%E4%B8%80%E8%A7%88%E8%A1%A8.png" width="80%" height="80%">
+<img src="http://od2xrf8gr.bkt.clouddn.com/%E4%B8%80%E8%A7%88%E8%A1%A82.png">
 
 
 ## 效果图
@@ -24,6 +24,9 @@
 - Spider.java:1.sendGet()方法获取网页源码。2.regexString()方法用于返回和网页源码匹配到的结果(即我们需要的内容)。
 - Zhihu.java:封装我们需要的内容。
 - Main4.java:传入需要爬取页面的url。
+
+## 使用方法
+git clone 
 
 
 
