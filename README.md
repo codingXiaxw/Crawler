@@ -26,7 +26,7 @@
 - Main4.java:传入需要爬取页面的url。
 
 ## 使用方法
-git clone 
-
+- git clone https://github.com/codingXiaxw/Crawler.git
+- 打开IDEA,File-->NEW-->open-->打开该文件
 
 
