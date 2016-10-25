@@ -1,7 +1,7 @@
 ## 用Java语言实现的一个简易网络爬虫  
 
 ## 目标
-爬取知乎网的推荐页面的所有问题、问题链接、问题链以及关于对问题的回答，然后将它们打印在控制台。后序进阶会将爬去结果保存到数据库中，详细教程见我博客[codingXiaxw' blog](http://codingxiaxw.cn) 。博客地址为:http://codingxiaxw.cn  
+爬取知乎网的推荐页面的所有问题、问题链接、问题链以及关于对问题的回答，然后将它们打印在控制台。后序进阶会将爬去结果保存到数据库中，详细教程见我博客[codingXiaxw' blog](http://codingxiaxw.cn) 。博客地址为:http://codingxiaxw.cn  [爬虫系列项目地址](http://codingxiaxw.cn/2016/10/20/20-%E7%94%A8Java%E5%86%99%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E4%B8%80%E4%B9%8B%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D/)为: http://codingxiaxw.cn/2016/10/20/20-%E7%94%A8Java%E5%86%99%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E4%B8%80%E4%B9%8B%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D/ 
 
 博客用了以下四篇文章来介绍，目前完成了前三篇，所以附上经过前三篇文章的教程后得到的爬取效果: 
 
