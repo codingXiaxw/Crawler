@@ -16,12 +16,9 @@ public class Main4 {
 
         ArrayList<Zhihu> results;
 
-        long currentTime=System.currentTimeMillis();
         results=Spider.regexString(source);
 
-        long endTime=System.currentTimeMillis();
 
-        System.out.println(endTime-currentTime);
         System.out.println(results);
 
 
