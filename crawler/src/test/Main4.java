@@ -11,7 +11,7 @@ import java.util.ArrayList;
 public class Main4 {
     public static void main(String[] args)
     {
-        String url="http://www.zhihu.com/explore/recommendations";
+        String url="https://www.zhihu.com/explore/recommendations";
         String source= Spider.sendGet(url);
 
         ArrayList<Zhihu> results;

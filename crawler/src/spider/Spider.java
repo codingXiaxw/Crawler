@@ -61,7 +61,7 @@ public class Spider
 
         while (urlMatcher.find())
         {
-            Zhihu zhihu=new Zhihu("http://www.zhihu.com"+urlMatcher.group(1));
+            Zhihu zhihu=new Zhihu("https://www.zhihu.com"+urlMatcher.group(1));
 
 
             lists.add(zhihu);

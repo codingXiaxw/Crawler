@@ -10,7 +10,7 @@ public class Main5
     public static void main(String[] args)
     {
         Spider spider=new Spider();
-        String result=spider.sendGet("http://www.zhihu.com/explore/recommendations");
+        String result=spider.sendGet("https://www.zhihu.com/explore/recommendations");
         System.out.println(result);
     }
 }

@@ -66,7 +66,7 @@ public class Main2
 
     public static void main(String[] args)
     {
-        String url="http://www.zhihu.com/explore/recommendations";
+        String url="https://www.zhihu.com/explore/recommendations";
         String result=sendGet(url);
 
         String title=regexString(result,"post-link.+?>(.+?)<");

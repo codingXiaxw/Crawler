@@ -74,7 +74,7 @@ public class Zhihu
 
         while (matcher.find())
         {
-            zhihuUrl="http://www.zhihu.com/question/"+matcher.group(1);
+            zhihuUrl="https://www.zhihu.com/question/"+matcher.group(1);
 
             return true;
         }

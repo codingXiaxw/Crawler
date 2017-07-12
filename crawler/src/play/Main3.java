@@ -73,7 +73,7 @@ public class Main3
     {
         ArrayList<String> list;
 
-        String url="http://www.zhihu.com/explore/recommendations";
+        String url="https://www.zhihu.com/explore/recommendations";
         String result=sendGet(url);
 
         list=regexString(result,"post-link.+?>(.+?)<");
